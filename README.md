@@ -1,10 +1,8 @@
-# Encova-Solutions-Pvt-Ltd
-
 <p align="center">
-  <img width="100%" height='300' src="encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
+  <img width="100%" height='300' src="encoderbytes.gif" alt="Encova Solutions (PRIVATE) LIMITED" />
 </p>
 
- <p align="center"><h1>Encova Solutions</h1>is a software development company committed to delivering complete, high-quality digital solutions tailored to our clients’ needs. Our expertise spans Flutter (iOS & Android), React Native (iOS & Android), Deep Learning, Machine Learning, Data Science, and full-stack Web Development.
+ <p align="center"><h1>Encova Solutions Pvt Ltd</h1>is a software development company committed to delivering complete, high-quality digital solutions tailored to our clients’ needs. Our expertise spans Flutter (iOS & Android), React Native (iOS & Android), Deep Learning, Machine Learning, Data Science, and full-stack Web Development.
 
 Whether you’re launching a new app concept, seeking expert development support for an ongoing project, or looking to enhance the visibility and performance of an existing product on the App Store, our team has the experience to help you move forward with confidence.
 </p>
