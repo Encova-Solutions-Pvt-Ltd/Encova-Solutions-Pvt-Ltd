@@ -7,7 +7,7 @@
 Whether you’re launching a new app concept, seeking expert development support for an ongoing project, or looking to enhance the visibility and performance of an existing product on the App Store, our team has the experience to help you move forward with confidence.
 </p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -17,12 +17,12 @@ Whether you’re launching a new app concept, seeking expert development support
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 
 
 # Our Team
 
-[@MianJawadAhmad](https://github.com/MianJawadAhmad) | [@MohsinTariq](https://github.com/MohsinTariq10) | [@ZeeshanSaleem](https://github.com/ZeeshanSalem) | [@NaveedHussain](https://github.com/navidanchitrali)
+[@Abdul Basit](https://github.com/MianJawadAhmad) | [@Muhammad Hanzala Dawood](https://github.com/MohsinTariq10) | [@Abdul Samad](https://github.com/ZeeshanSalem) | [@NaveedHussain](https://github.com/navidanchitrali)
 --- | --- | --- | ---
 ![@MianJawadAhmad](https://avatars.githubusercontent.com/u/39160224?v=4) | ![@MohsinTariq](https://avatars.githubusercontent.com/u/4686418?v=4) | ![@ZeeshanSaleem](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@NaveedHussain](https://avatars.githubusercontent.com/u/48487470?v=4)
 
