@@ -22,7 +22,7 @@ Whether you’re launching a new app concept, seeking expert development support
 
 # Our Team
 
-[@Abdul Basit](https://github.com/MianJawadAhmad) | [@Muhammad Hanzala Dawood](https://github.com/MohsinTariq10) | [@Abdul Samad](https://github.com/ZeeshanSalem) | [@NaveedHussain](https://github.com/navidanchitrali)
+[@Abdul Basit](https://github.com/abdulbasit-10) | [@Muhammad Hanzala Dawood](https://github.com/MohsinTariq10) | [@Abdul Samad](https://github.com/ZeeshanSalem) | [@NaveedHussain](https://github.com/navidanchitrali)
 --- | --- | --- | ---
 ![@MianJawadAhmad](https://avatars.githubusercontent.com/u/39160224?v=4) | ![@MohsinTariq](https://avatars.githubusercontent.com/u/4686418?v=4) | ![@ZeeshanSaleem](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@NaveedHussain](https://avatars.githubusercontent.com/u/48487470?v=4)
 
