@@ -22,8 +22,24 @@ Whether you’re launching a new app concept, seeking expert development support
 
 # Our Team
 
-[@Abdul Basit](https://github.com/abdulbasit-10) | [@Talha Ahmad Awan](https://github.com/userunknown-cmd) | [@Muhammad Hanzala Dawood](https://github.com/HanzalaKhattak) | [@Abdul Samad](https://github.com/hamzayslays) | [@Muhammad Hamza](https://github.com/hamzayslays)
+<!-- [@Abdul Basit](https://github.com/abdulbasit-10) | [@Talha Ahmad Awan](https://github.com/userunknown-cmd) | [@Muhammad Hanzala Dawood](https://github.com/HanzalaKhattak) | [@Abdul Samad](https://github.com/hamzayslays) | [@Muhammad Hamza](https://github.com/hamzayslays)
 
 
-![@Abdul Basit](https://avatars.githubusercontent.com/u/209738702?v=4) | ![@Muhammad Hanzala Dawood](https://avatars.githubusercontent.com/u/159634688?v=4) | ![@Abdul Samad](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@Muhammad Hamza](https://avatars.githubusercontent.com/u/188473538?v=4)
+![@Abdul Basit](https://avatars.githubusercontent.com/u/209738702?v=4) | ![@Muhammad Hanzala Dawood](https://avatars.githubusercontent.com/u/159634688?v=4) | ![@Abdul Samad](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@Muhammad Hamza](https://avatars.githubusercontent.com/u/188473538?v=4) -->
+
+
+### Abdul Basit  
+![Abdul Basit](https://avatars.githubusercontent.com/u/209738702?v=4)
+
+### Talha Ahmad Awan  
+![Talha Ahmad Awan](https://avatars.githubusercontent.com/u/229988290?v=4)
+
+### Muhammad Hanzala Dawood  
+![Muhammad Hanzala Dawood](https://avatars.githubusercontent.com/u/159634688?v=4)
+
+### Abdul Samad  
+![Abdul Samad](https://avatars.githubusercontent.com/u/49438298?v=4)
+
+### Muhammad Hamza  
+![Muhammad Hamza](https://avatars.githubusercontent.com/u/188473538?v=4)
 
