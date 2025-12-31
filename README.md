@@ -24,5 +24,5 @@ Whether you’re launching a new app concept, seeking expert development support
 
 [@Abdul Basit](https://github.com/abdulbasit-10) | [@Talha Ahmad Awan](https://github.com/HanzalaKhattak) | [@Abdul Samad](https://github.com/abdul-samad-91) | [@Muhammad Hanzala Dawood](https://github.com/HanzalaKhattak)
 --- | --- | --- | ---
-![@Abdul Basit](https://avatars.githubusercontent.com/u/209738702?v=4) | ![@Talha Ahmad Awan](https://avatars.githubusercontent.com/u/159634688?v=4) | ![@Abdul Samad](https://avatars.githubusercontent.com/u/184902943?v=4) | ![@Muhammad Hanzala Dawood](https://avatars.githubusercontent.com/u/159634688?v=4)
+![@Abdul Basit](https://avatars.githubusercontent.com/u/209738702?v=4) | ![@Talha Ahmad Awan](https://avatars.githubusercontent.com/u/229988290?v=4) | ![@Abdul Samad](https://avatars.githubusercontent.com/u/184902943?v=4) | ![@Muhammad Hanzala Dawood](https://avatars.githubusercontent.com/u/159634688?v=4)
 
